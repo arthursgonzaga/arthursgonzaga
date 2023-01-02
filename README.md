@@ -17,7 +17,7 @@
 
 <h1>Projects 📊</h1>
   
-<p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthursgonzaga&layout=compact&theme=merko)](https://github.com/Aryagm/github-readme-stats)</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthursgonzaga&layout=compact&theme=merko)](https://github.com/Aryagm/github-readme-stats)
  
 <h2>Project's repo: 🎨</h2>
   
