@@ -17,14 +17,14 @@
 
 <h1>Projects 📊</h1>
 
-<h2>Languages:</h2>
+<h2>Skills:</h2>
 <p align="center">
 
-<img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 &nbsp;&nbsp;&nbsp;  
-<img align="center" src="https://img.shields.io/badge/Arthur Gonzaga-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 &nbsp;&nbsp;&nbsp;  
-<img align="center" src="https://img.shields.io/badge/Arthur Gonzaga-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
 </p>
 
