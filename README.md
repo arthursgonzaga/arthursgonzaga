@@ -1,6 +1,6 @@
 <h1 align="center">I'm <a href="https://github.com/arthursgonzaga">Arthur Gonzaga<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 
-[![Arthur's github stats](https://github-readme-stats.vercel.app/api?username=arthursgonzaga&show_icons=true&theme=merko)](https://github.com/arthursgonzaga/github-readme-stats) 
+<h1 align = "center">[![Arthur's github stats](https://github-readme-stats.vercel.app/api?username=arthursgonzaga&show_icons=true&theme=merko)](https://github.com/arthursgonzaga/github-readme-stats) </h1>
 
 <h1>About Me! 😎</h1>
 
