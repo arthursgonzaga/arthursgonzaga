@@ -5,7 +5,7 @@
 <h1>About Me! 😎</h1>
 
 - 🏫: I am an Electrical Engineer with electronic emphasis;
-- 🔭: I’m currently working at QuintoAndar as Analytics Engineer;
+- 🔭: I’m currently working at VTEX as Analytics Engineer;
 - 😄  Pronouns: He/His
 - ⚡  Fun fact: I love Soccer! ⚽
   
