@@ -1,48 +1,45 @@
 # Arthur Gonzaga
 
-**Analytics Engineer | Data Engineer** · Distrito Federal, Brasil
+**Analytics Engineer | Data Engineer** · Brazil
 
-Engenheiro com foco em Data Engineering e Analytics: pipelines escaláveis, modelagem dimensional (Star Schema, Kimball) e arquiteturas datalake/lakehouse/datawarehouse. Trabalho com times de produto, analytics e growth para decisões orientadas a dados.
-
----
-
-## O que venho fazendo
-
-- **VTEX** — Arquitetura de pipelines e datasets analíticos em ambiente lakehouse/Redshift; modelagem dimensional; orquestração com **Airflow** e SQL em escala.
-- **Agentes de dados com IA** — Desenvolvimento de agentes com **AWS Bedrock**, **Strands** e **Pydantic**.
+Engineer focused on Data Engineering, Analytics, and AI: scalable pipelines, dimensional modeling (Star Schema, Kimball), and datalake/lakehouse/datawarehouse architectures. I work with product, analytics, and growth teams to enable data-driven decisions.
 
 ---
 
-## Stack principal
+## What I've been doing
 
-| Área | Ferramentas |
-|------|-------------|
-| **Processamento** | Python, PySpark, SQL, Spark (Streaming & SQL), Kafka |
-| **Orquestração & plataforma** | Airflow, Databricks, Trino |
-| **Cloud & armazenamento** | AWS (S3, Glue, Athena, Redshift) |
-| **BI & análise** | Metabase, Superset, Looker Studio, Amplitude |
-| **Controle** | Git, Jira |
+- **VTEX** — Designing pipelines and analytical datasets in a lakehouse/Redshift environment; dimensional modeling; orchestration with **Airflow** and SQL at scale.
+- **AI data agents** — Building agents with **AWS Bedrock**, **Strands**, and **Pydantic**.
 
 ---
 
-## Formação
+## Main stack
 
-- **Pós-graduação** — Data Engineering & Architecture (XP Educação, 2024–2025)
-- **Graduação** — Engenharia Eletrônica (UnB, 2014–2019)
-
----
-
-## Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-gonzaga-7a2770132/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arthursgonzaga@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://arthursgonzaga.medium.com/)
+| Area | Tools |
+|------|-------|
+| **Processing** | Python, PySpark, SQL, Spark (Streaming & SQL), Kafka |
+| **Orchestration & platform** | Airflow, Databricks, Trino |
+| **Cloud & storage** | AWS (S3, Glue, Athena, Redshift) |
+| **BI & analytics** | Metabase, Superset, Looker Studio, Amplitude |
+| **Control** | Git, Jira |
 
 ---
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=arthursgonzaga&show_icons=true&theme=default&hide=contribs)](https://github.com/arthursgonzaga)
+## Education
 
-### Repositórios em destaque
+- **Postgraduate** — Data Engineering & Architecture (XP Educação, 2024–2025)
+- **Bachelor's** — Electronics Engineering (UnB, 2014–2019)
 
-[![DataProject](https://github-readme-stats.vercel.app/api/pin/?username=arthursgonzaga&repo=DataProject)](https://github.com/arthursgonzaga/DataProject)
-[![DataKick](https://github-readme-stats.vercel.app/api/pin/?username=arthursgonzaga&repo=DataKick)](https://github.com/arthursgonzaga/DataKick)
+---
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/arthur-gonzaga-7a2770132/) · [Email](mailto:arthursgonzaga@gmail.com) · [Medium](https://arthursgonzaga.medium.com/)
+
+---
+
+## Featured repositories
+
+- [DataProject](https://github.com/arthursgonzaga/DataProject)
+- [DataKick](https://github.com/arthursgonzaga/DataKick)
+- [Algorithms](https://github.com/arthursgonzaga/Algorithms)
